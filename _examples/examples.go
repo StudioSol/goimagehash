@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/corona10/goimagehash"
+	"github.com/StudioSol/goimagehash"
 	"image/jpeg"
 	"os"
 )

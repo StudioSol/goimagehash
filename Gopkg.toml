@@ -23,4 +23,8 @@
 
 [[constraint]]
   branch = "master"
+  name = "github.com/StudioSol/goimagehash"
+
+[[constraint]]
+  branch = "master"
   name = "github.com/nfnt/resize"

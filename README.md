@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/corona10/goimagehash.svg?branch=master)](https://travis-ci.org/corona10/goimagehash)
-[![GoDoc](https://godoc.org/github.com/corona10/goimagehash?status.svg)](https://godoc.org/github.com/corona10/goimagehash)
-[![Go Report Card](https://goreportcard.com/badge/github.com/corona10/goimagehash)](https://goreportcard.com/report/github.com/corona10/goimagehash)
+[![GoDoc](https://godoc.org/github.com/StudioSol/goimagehash?status.svg)](https://godoc.org/github.com/StudioSol/goimagehash)
+[![Go Report Card](https://goreportcard.com/badge/github.com/StudioSol/goimagehash)](https://goreportcard.com/report/github.com/StudioSol/goimagehash)
 
 # goimagehash
 > Inspired by [imagehash](https://github.com/JohannesBuchner/imagehash)
@@ -15,7 +15,7 @@ A image hashing library written in Go. ImageHash supports:
 
 ## Installation
 ```
-go get github.com/corona10/goimagehash
+go get github.com/StudioSol/goimagehash
 ```
 ## Special thanks to
 * [Haeun Kim](https://github.com/haeungun/)
